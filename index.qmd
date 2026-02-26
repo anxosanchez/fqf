@@ -1,0 +1,28 @@
+---
+title: "SOPQ 24-25: Simulación e Optimización de Procesos Químicos"
+tbl-colwidths: [5,10,30,5,5,5,5,5,5,5]
+#navbar: false
+---
+
+# Introdución
+
+Esta páxina contén un esquema dos temas, contido e tarefas para o semestre.
+Ten en conta que este horario actualizarase a medida que avanza o semestre, con todos os cambios documentados aquí.
+
+# Clases presenciais
+
+::: column-screen-inset-right
+| Semán | Data | Tema | Preparación | Presentacións | EA |  Laboratorio | Traballo individual | Avaliación | Proxecto |  
+|:------:|--------|--------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|  
+|  [1](/weeks/week-1.html)  | Mér, 11 Set | Tema 0 - Benvida + Presentación |  |  |  | | | | |    
+|  | Mér, 19 Set | Tema 1 - Introdución | | [🖥️](/slides/lec-1.html "Slides"){aria-label="Lab 1 slides"} | | [💻](/labs/lab-1.html "Lab instructions"){aria-label="Lab 1 instructions"} | | | |  
+|  [2](/weeks/week-2.html) | Xov, 11 Set | Práctica Simuladores 1 - Introducción | |  [🖥️](/slides/lec-2.html "Lecture slides"){aria-label="Lecture 2 slides"}  | | | | | |  
+|  [3](/weeks/week-3.html)  |          | | | | | | | | |  
+|  [4](/weeks/week-3.html)  |          | | | | | | | | |  
+|  [5](/weeks/week-3.html)  |          | | | | | | | | |  
+|  [6](/weeks/week-3.html)  |          | | | | | | | | |  
+|  [7](/weeks/week-3.html)  |          | | | | | | | | |  
+|  [8](/weeks/week-3.html)  |          | | | | | | | | |  
+
+:::
+
