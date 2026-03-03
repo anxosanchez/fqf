@@ -6,8 +6,8 @@ website:
   page-navigation: true
   title: "SOPQ-2324"
   description: "Web da asignatrua Simulación e Optimización de Procesos Químicos"
-  site-url: https://anxosanchez.github.io/SOPQ-2324
-  repo-url: https://github.com/anxosanchez/SOPQ-2324
+  site-url: https://anxosanchez.github.io/fqf
+  repo-url: https://github.com/anxosanchez/fqf
   repo-actions: [edit, issue]
   
   page-footer:
@@ -30,7 +30,7 @@ website:
         text: Linkedin
     menu:
       - text: Foro
-        url: https://moovi.uvigo.gal/mod/forum/view.php?id=759112
+        url: https://moovi.uvigo.gal/course/view.php?id=2787
       - text: Campusremoto 
         url: https://campusremotouvigo.gal/access/public/meeting/682475815
       - text: Moovi
